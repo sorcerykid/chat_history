@@ -1,4 +1,4 @@
-Chat History Mod v2.11
+Chat History Mod v1.11
 By Leslie E. Krause
 
 
