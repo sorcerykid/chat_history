@@ -1,0 +1,1 @@
+Chat History is an interactive chat history viewer with a variety of message filtering options and notification sounds for use on servers.
