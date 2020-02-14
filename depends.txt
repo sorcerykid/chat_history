@@ -1,2 +1,3 @@
-default
 formspecs
+registry
+config

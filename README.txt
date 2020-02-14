@@ -1,5 +1,7 @@
-Chat History Mod v2.0
+Chat History Mod v3.0 PRERELEASE
 By Leslie E. Krause
+
+Chat History is an interactive chat history viewer for use on Minetest servers.
 
 Repository
 ----------------------
@@ -14,33 +16,36 @@ Download archive...
 Compatability
 ----------------------
 
-Minetest 0.4.16+ required
+Minetest 0.4.15+ required
 
 Dependencies
 ----------------------
 
-default (required)
-  https://github.com/minetest/minetest_game
-
-formspecs (required)
+ActiveFormspecs Mod v2.6+
   https://bitbucket.org/sorcerykid/formspecs
 
-chat2 (optional)
+Chat2 Mod
   https://github.com/minetest-mods/chat2
+
+Configuration Panel Mod
+  https://bitbucket.org/sorcerykid/config
+
+Player Registry Mod v2.0+
+  https://bitbucket.org/sorcerykid/registry
 
 Installation
 ----------------------
 
-  1) Unzip the archive into the mods directory of your subgame
+  1) Unzip the archive into the mods directory of your game
   2) Rename the chat_history-master directory to "chat_history"
-
+  3) Add "chat_history" as a dependency to any mods using the API
 
 Source Code License
 ----------------------
 
 GNU Lesser General Public License v3 (LGPL-3.0)
 
-Copyright (c) 2017-2018, Leslie E. Krause
+Copyright (c) 2017-2020, Leslie E. Krause
 
 This program is free software; you can redistribute it and/or modify it under the terms of
 the GNU Lesser General Public License as published by the Free Software Foundation; either
@@ -52,7 +57,7 @@ See the GNU Lesser General Public License for more details.
 
 http://www.gnu.org/licenses/lgpl-2.1.html
 
-License of media (textures, sounds, and models)
+Multimedia License (textures, sounds, and models)
 ----------------------------------------------------------
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
